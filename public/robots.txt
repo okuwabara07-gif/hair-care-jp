@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hair-care-jp.vercel.app/sitemap.xml
